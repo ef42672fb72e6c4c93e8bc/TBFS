@@ -1,0 +1,15 @@
+[package]
+name = "tgraph"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+log = "0.4.20"
+stderrlog = "0.6"
+dsi-progress-logger = "0.2.4"
+
+[profile.release]
+overflow-checks = true
