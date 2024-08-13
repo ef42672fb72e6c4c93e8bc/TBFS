@@ -37,7 +37,7 @@ Example:
 
 ## Dataset
 
-Directory `graphs` contains temporal graphs from [Stanford SNAP](https://snap.stanford.edu/data/) (`mathoverflow`, `super_user`, `ask_ubuntu`), [Konect](https://konect.cc/) (`topology`), [Network Repository](https://networkrepository.com/) (`slashdot_reply`, `digg_reply`, `facebook_wall`, `SMS`), [A collection of public transport network data sets for 25 cities](https://zenodo.org/records/1186215) (all cities), [tgcloseness](https://gitlab.com/tgpublic/tgcloseness/) (`arxiv`, `flickrsg`, `wiki_talk_nl`, `wikipediasg`, `prospea`), [Sociopatterns](https://www.sociopatterns.org) (`infectious`).
+Directory `graphs` contains temporal graphs from [Stanford SNAP](https://snap.stanford.edu/data/) (`mathoverflow`, `super_user`, `ask_ubuntu`), [Konect](http://konect.cc/) (`topology`), [Network Repository](https://networkrepository.com/) (`slashdot_reply`, `digg_reply`, `facebook_wall`, `SMS`), [A collection of public transport network data sets for 25 cities](https://zenodo.org/records/1186215) (all cities), [tgcloseness](https://gitlab.com/tgpublic/tgcloseness/) (`arxiv`, `flickrsg`, `wiki_talk_nl`, `wikipediasg`, `prospea`), [Sociopatterns](http://www.sociopatterns.org/datasets/) (`infectious`).
 
 ## LICENSE
 
